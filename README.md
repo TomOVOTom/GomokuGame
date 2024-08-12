@@ -1,0 +1,2 @@
+# GomokuGame
+基于springboot的WebSocketConfig结合前端网页技术的联网五子棋
